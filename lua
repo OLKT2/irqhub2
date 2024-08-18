@@ -25,6 +25,10 @@ end)
 wowSection:NewButton("كيبورد", "", function()  print("Clicked")loadstring(game:HttpGet("https://gist.githubusercontent.com/RedZenXYZ/4d80bfd70ee27000660e4bfa7509c667/raw/da903c570249ab3c0c1a74f3467260972c3d87e6/KeyBoard%2520From%2520Ohio%2520Fr%2520Fr"))()
 end)
 
+wowSection:NewButton("الغاء التخريب", "", function()
+    print("Clicked")loadstring(game:HttpGet("https://raw.githubusercontent.com/hasan08122020108181818/devronaldo/main/antithsuireboe.lua"))()
+end)
+
 wowSection:NewButton("مراقبه", "", function()
     print("Clicked")loadstring(game:HttpGet("https://raw.githubusercontent.com/mohamed18899/Vew/main/Vew"))()
 end)
